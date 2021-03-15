@@ -15,7 +15,7 @@
   "author": "Christopher Bare",
   "license": "ISC",
   "dependencies": {
-    "chai": "^4.2.0",
+    "chai": "^4.3.4",
     "mocha": "^6.1.3"
   }
 }
